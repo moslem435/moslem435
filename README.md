@@ -8,8 +8,6 @@ Building high-performance web engines, cross-platform compilation systems, and e
 
 ### 🛠️ Tech Stack & Arsenal
 
-### 🛠️ Tech Stack & Arsenal
-
 <table border="0">
   <tr>
     <td align="center" width="160px"><b>Game & Core</b></td>
