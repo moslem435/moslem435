@@ -2,7 +2,7 @@
 
 Cross-Platform Architect | Indie Game Developer | DevOps Engineer
 
-Building high-performance cross-platform engines and exploring the boundaries of the browser.
+Building high-performance cross-platform engines and exploring the boundaries of the browser.<br />
 Dedicated to bridging the gap between native performance and web-based ecosystems.
 
 ---
