@@ -19,4 +19,4 @@ Building high-performance web engines, cross-platform compilation systems, and e
 
 ### 📊 GitHub Analytics
 <p align="">
-<img src="https://my-repository-drab-delta-15.vercel.app/api/top-langs/?username=moslem435&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&v=4" width="80%" /></p>
+<img src="https://my-repository-drab-delta-15.vercel.app/api/top-langs/?username=moslem435&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&v=4" width="48%" /></p>
