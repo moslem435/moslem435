@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Yume
-**Backend & DevOps Engineer | Indie Game Developer**
+**Backend & DevOps Engineer | Indie Developer**
 
 Building high-performance web engines, cross-platform compilation systems, and exploring the boundaries of Web architectures. 
 
