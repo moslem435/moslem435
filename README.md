@@ -10,7 +10,7 @@ Building high-performance web engines, cross-platform compilation systems, and e
 
 <table border="0">
   <tr>
-    <td align="center" width="120px"><b>Game & Core</b></td>
+    <td align="center" width="160px" style="white-space: nowrap;"><b>Engine & Core</b></td>
     <td>
       <img src="https://img.shields.io/badge/Cocos%20Creator-039BE5?style=flat-square&logo=Cocos&logoColor=white" />
       <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
@@ -19,7 +19,7 @@ Building high-performance web engines, cross-platform compilation systems, and e
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
+    <td align="center" style="white-space: nowrap;"><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Vue.js_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
@@ -29,7 +29,7 @@ Building high-performance web engines, cross-platform compilation systems, and e
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Backend</b></td>
+    <td align="center" style="white-space: nowrap;"><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -41,7 +41,7 @@ Building high-performance web engines, cross-platform compilation systems, and e
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Cloud Native</b></td>
+    <td align="center" style="white-space: nowrap;"><b>Cloud Native</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -51,7 +51,7 @@ Building high-performance web engines, cross-platform compilation systems, and e
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Tools</b></td>
+    <td align="center" style="white-space: nowrap;"><b>Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
