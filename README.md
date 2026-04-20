@@ -68,4 +68,5 @@ Dedicated to bridging the gap between native performance and web-based ecosystem
 
 ### 📊 GitHub Analytics
 <p align="">
+  <img src="https://my-repository-drab-delta-15.vercel.app/api?username=moslem435&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2026_final" width="49%" />
 <img src="https://my-repository-drab-delta-15.vercel.app/api/top-langs/?username=moslem435&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&v=4" width="48%" /></p>
