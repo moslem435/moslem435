@@ -1,10 +1,9 @@
-### Hi there👋, I'm Yume
+### 你好👋，我是 Yume
 
-Cross-Platform Architect | Indie Game Developer | DevOps Engineer
+跨平台架构师 | 全栈开发者 | DevOps 工程师<br />
 
-Building high-performance cross-platform engines and exploring the boundaries of the browser.<br />
-Dedicated to bridging the gap between native performance and web-based ecosystems.
-
+专注于全链路交付的全栈开发者，探索从底层架构到多端表现的技术边界。<br />
+深耕高并发游戏后端、现代 Web 生态、跨端程序与云原生运维，致力于打造高性能的完整技术闭环。
 ---
 
 ### 📊 GitHub Analytics
